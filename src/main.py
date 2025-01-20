@@ -1,4 +1,10 @@
+# pip install setuptools
+
+# install from Github:
 # pip install git+https://github.com/SorbonneParis1Ufr02FinancePythonM1-M2/helpers.git@master
+
+# install from directory: -> edition
+# pip install -e "your_path/helpers"
 
 import os
 
